@@ -1,0 +1,165 @@
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ApplicationInsights.config
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\csc.exe
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\System.Collections.Immutable.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\vbc.exe
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\VBCSCompiler.exe
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\VBCSCompiler.exe.config
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ProjektPoprawkowy.dll.config
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ProjektPoprawkowy.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ProjektPoprawkowy.pdb
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Antlr3.Runtime.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\AspNet.ScriptManager.bootstrap.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\AspNet.ScriptManager.jQuery.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.SqlServer.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.DependencyCollector.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.Web.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.WindowsServer.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ApplicationInsights.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Google.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ScriptManager.WebForms.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Web.Infrastructure.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Newtonsoft.Json.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Owin.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Optimization.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Providers.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\WebGrease.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.DependencyCollector.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.Web.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.WindowsServer.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ApplicationInsights.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Optimization.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Antlr3.Runtime.pdb
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Newtonsoft.Json.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.SqlServer.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Providers.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Google.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.csprojResolveAssemblyReference.cache
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.Migrations.initial.resources
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.csproj.GenerateResource.Cache
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.dll
+C:\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.pdb
+C:\Users\Tomorovik\Documents\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.csprojResolveAssemblyReference.cache
+C:\Users\Tomorovik\Documents\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.Migrations.initial.resources
+C:\Users\Tomorovik\Documents\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.csproj.GenerateResource.Cache
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.csprojResolveAssemblyReference.cache
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.Migrations.initial.resources
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.csproj.GenerateResource.Cache
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ApplicationInsights.config
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\csc.exe
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\vbc.exe
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ProjektPoprawkowy.dll.config
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ProjektPoprawkowy.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\ProjektPoprawkowy.pdb
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Antlr3.Runtime.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.SqlServer.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.Web.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Newtonsoft.Json.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Owin.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Optimization.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Providers.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\WebGrease.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.Web.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Optimization.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Antlr3.Runtime.pdb
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Newtonsoft.Json.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\EntityFramework.SqlServer.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\System.Web.Providers.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.dll
+C:\Users\Tomorovik\Documents\MyRepos\University Projects\ProjektPoprawkowy\ProjektPoprawkowy\ProjektPoprawkowy\obj\Debug\ProjektPoprawkowy.pdb
